@@ -24,7 +24,7 @@ Thrusts forward, damaging all enemies in a line. On hit, grants a stack of Gathe
 W
 WIND WALL
 Creates a moving wall that blocks all enemy projectiles for 4 seconds.
-![Alt Text](media.giphy.com/media/nvCSHt5zjzePvuGXYY/giphy.gif)
+![Alt Text](https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0157/ability_0157_P1.webm)
 
 
 E
