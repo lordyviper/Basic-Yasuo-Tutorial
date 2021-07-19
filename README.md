@@ -1,4 +1,2 @@
-# Basic-Yasuo-Tutorial
-
-merhaba 
+### Basic-Yasuo-Tutorial
 
