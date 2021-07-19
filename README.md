@@ -24,10 +24,10 @@ Thrusts forward, damaging all enemies in a line. On hit, grants a stack of Gathe
 W
 WIND WALL
 Creates a moving wall that blocks all enemy projectiles for 4 seconds.
-![Alt Text](https://media.giphy.com/media/nvCSHt5zjzePvuGXYY/giphy.gif)
+![Alt Text](media.giphy.com/media/nvCSHt5zjzePvuGXYY/giphy.gif)
 
 
-E.
+E
 SWEEPING BLADE
 Dashes through target enemy, dealing magic damage. Each cast increases your next dash's base Damage, up to a max amount. Cannot be re-cast on the same enemy for a few seconds. If Steel Tempest is cast while dashing, it will strike as a circle.
 
