@@ -5,13 +5,13 @@ Hello everyone, in this article I will tell you as much as possible about Yasuo'
 First of all, let me tell you briefly about his life.
 
 
-###Yasuo's life 
+YASUO'S LIFE 
 
 
 A deeply determined Ionian, Yasuo is an agile swordsman who uses the air against his foes. As a proud youth, he wrongly accused him of murdering his master - unable to prove his innocence, he had to kill his own brother in self-defense. Even after his master's true murderer was revealed, Yasuo still couldn't forgive himself for everything he had done.
 
 Now let's talk about the skill set and combos.
-###Skill set
+SKILL SETS
 
 WAY OF THE WANDERER
 Yasuo's Critical Strike Chance is increased. Additionally, Yasuo builds toward a shield whenever he is moving. The shield triggers when he takes damage from a champion or monster. 
@@ -24,6 +24,8 @@ Thrusts forward, damaging all enemies in a line. On hit, grants a stack of Gathe
 W
 WIND WALL
 Creates a moving wall that blocks all enemy projectiles for 4 seconds.
+![alt-text](https://media.giphy.com/media/nvCSHt5zjzePvuGXYY/giphy.gif)
+
 
 E
 SWEEPING BLADE
