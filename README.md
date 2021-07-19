@@ -1,3 +1,4 @@
+![ability_0157_W1](https://user-images.githubusercontent.com/69302135/126156838-cc9206a8-c009-411f-ae07-c244da1345d3.gif)
 ### Basic-Yasuo-Tutorial
 
 Hello everyone, in this article I will tell you as much as possible about Yasuo's abilities, combinations, pairings and life.
