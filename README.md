@@ -11,7 +11,7 @@ Now let's talk about the skill set and combos.
 
 WAY OF THE WANDERER
 Yasuo's Critical Strike Chance is increased. Additionally, Yasuo builds toward a shield whenever he is moving. The shield triggers when he takes damage from a champion or monster. 
-![alt-text] (https://d28xe8vt774jo5.cloudfront.net/champion-abilities/0157/ability_0157_P1.webm)
+
 
 Q
 STEEL TEMPEST
