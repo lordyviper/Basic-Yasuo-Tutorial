@@ -24,7 +24,7 @@ Thrusts forward, damaging all enemies in a line. On hit, grants a stack of Gathe
 W
 WIND WALL
 Creates a moving wall that blocks all enemy projectiles for 4 seconds.
-<p>![Alt text](https://media.giphy.com/media/nvCSHt5zjzePvuGXYY/giphy.gif)</p>
+![Yasuo W Skill](https://media.giphy.com/media/nvCSHt5zjzePvuGXYY/giphy.gif)
 
 E
 SWEEPING BLADE
