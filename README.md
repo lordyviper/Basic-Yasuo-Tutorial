@@ -48,3 +48,20 @@ LAST BREATH
 
 Blinks to an Airborne enemy champion, dealing physical damage and holding all Airborne enemies in the area in the air. Grants maximum Flow but resets all stacks of Gathering Storm. For a moderate time afterwards, Yasuo's critical strikes gain significant Bonus Armor Penetration.
 
+
+Matchups
+
+First of all, you will choose Yasuo, you should pay attention to the champion you will encounter, the counter selection can be taken very easily.
+According to league of legends season 11, I will give below the most 10 characters taken against yasuo.
+
+1.Darius 
+2.Jax
+3.Malzahar 
+4.Swain 
+5.fizz
+6.Sett 
+7.Rengar 
+8.Ryze 
+9.Jayce 
+10.Poppy
+
