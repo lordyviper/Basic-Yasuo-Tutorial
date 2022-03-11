@@ -58,7 +58,7 @@ According to league of legends season 11, I will give below the most 10 characte
 2.Jax
 3.Malzahar 
 4.Swain 
-5.fizz
+5.Fizz
 6.Sett 
 7.Rengar 
 8.Ryze 
